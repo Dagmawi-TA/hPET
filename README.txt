@@ -25,4 +25,8 @@ hourly2daily_pet_v3.py  This script is used to convert the hourly PET values
                     	hourly2daily_pet_v3_2019.py
                     	with year values are just a variation 
                     	of the the script for the first and last year.
+download_hPET.py       This script contain code to extract selected regions from the 
+                       globe to download hPET and dPET dataset fro the server. 
+		       The user need to download the script and change the locations before
+		       running the code to get the data.
 *************************************************************************************                 
